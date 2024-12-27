@@ -116,7 +116,6 @@ ol {
 
 .search-form__label {
   display: flex;
-  width: 212px;
   width: fit-content;
   cursor: pointer;
 }
@@ -283,13 +282,6 @@ input[type=checkbox]:checked + .search-form__pseudo-checkbox::after {
   height: 103px;
   object-position: center;
   object-fit: cover;
-}
-
-.search-form {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 40px;
 }
 
 .cards-list-item-template {
