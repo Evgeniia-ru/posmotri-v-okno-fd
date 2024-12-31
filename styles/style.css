@@ -243,7 +243,7 @@ input[type=checkbox]:checked + .search-form__pseudo-checkbox::after {
 }
 
 .content__card-link_current {
-  background-color: rgb(27, 25, 25);
+  background-color: #545050;
 }
 
 .content__video-card {
@@ -287,6 +287,7 @@ input[type=checkbox]:checked + .search-form__pseudo-checkbox::after {
 
 .more-button {
   width: 100%;
+  margin-top: 30px;
 }
 
 .button:focus {
